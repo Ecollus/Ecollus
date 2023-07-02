@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<h3>Quer saber mais sobre nossa vitrine?</h3>
+<h3>💚 - Quer saber mais sobre nossa vitrine?</h3>
 
 <a href="https://linktr.ee/ECOLLUS" target="_blank"><img padding-bottom="10px" src="https://github.com/EcollusDemoday/.github/blob/main/img/Link.png" width="100px">
  
