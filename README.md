@@ -68,9 +68,15 @@
 	</a>
 	</a>
 	</div>
-  
-	
-	
+
+<br>
+<h3 align="center">💚 - O que tem no repositorio?</h3>
+ <div align="center">
+	<p href="#" target="_blank">🌱 - 40 paginas de Front End</p>
+	<p href="#" target="_blank">🌱 - Script do Banco de Dados</p>
+	<p href="#" target="_blank">🌱 - API em Java</p>
+	<p href="#" target="_blank">🌱 - Conexão com Cadastro via API</p>
+</div>
 
 <h3 align="center" padding-top="10px">Redes sociais</h3>
 <p align="center">
