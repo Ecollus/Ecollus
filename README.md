@@ -26,7 +26,7 @@
 <h3 align="left">💚 - Qual é o nosso valor?</h3>
     <br>
 	<div align="left">
-		<a>A Ecollus proporciopara a comunidade, acessibilidade de compra<br>dos cosméticos ecológicos, informação coerente, visibilidade<br>ao microempreendedor, colaboração ao crescimento econômico,<br> uma sociedade com a visão em consumo consciente! 🌱✌ </div> 
+		<a>A Ecollus proporciona à comunidade: acessibilidade de compra<br>dos cosméticos ecológicos, informação coerente, visibilidade<br>ao microempreendedor, colaboração ao crescimento econômico e <br> uma sociedade com a visão em consumo consciente! 🌱✌ </div> 
 			<div align="right"> <img position="absolute" top="100px" src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_nature_benefits_re_kk70.svg" width=250px>
 
 </div>
@@ -36,7 +36,7 @@
 <h3 align="left">💚 - Qual é a nossa mensagem?</h3>
     <br>
 	<div align="left">
-		<a>Abrace a sua autoestima com a gente e descubra que estamos<br>conectados com tudo que é vivo e biodiverso.<br>Junte-se a nós, cuide da sua beleza, cuidando do mundo.<br>Seja Ecollus, a vitrine virtual que valoriza a conexão<br>com a natureza e promove cosméticos sustentáveis!💚💜 </div> 
+		<a>Abrace a sua autoestima com a gente e descubra que estamos<br>conectados com tudo que é vivo e biodiverso.<br>Junte-se a nós! Cuide da sua beleza, cuidando do mundo.<br>Seja Ecollus, a vitrine virtual que valoriza a conexão<br>com a natureza e promove cosméticos sustentáveis!💚💜 </div> 
 			<div align="right"> <img padding-bottom="10px" src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_friendship_mni7.svg" width=300px>
 
 </div>
