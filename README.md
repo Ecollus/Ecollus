@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54C286&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=268815&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo(a)+à+Ecollus!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=268815&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem-vindo(a)+à+Ecollus!;)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 <h3 align="left">💚 - O que é a Ecollus?</h3>
     <br>
 	<div align="left">
-		<a>Na Ecollus, impulsionamos empreendedores de cosméticos sustentáveis, tornando-os viáveis e acessíveis.<br>Nossa missão é elevar a autoestima das pessoas e promover o crescimento econômico daqueles que oferecem<br>soluções conscientes para nós e para o planeta.<br>Conectamos você à beleza natural, sem comprometer o meio ambiente. <br>Mostramos, também, que para realçar a nossa beleza, não é preciso prejudicar a beleza do mundo! 🌎♻</div> 
+		<a>Na Ecollus, impulsionamos empreendedores de cosméticos sustentáveis, tornando-os viáveis e acessíveis.<br>Nossa missão é elevar a autoestima das pessoas e promover o crescimento econômico daqueles que<br> oferecem soluções conscientes para nós e para o planeta.<br>Conectamos você à beleza natural, sem comprometer o meio ambiente. <br>Mostramos, também, que para realçar a nossa beleza, não é preciso prejudicar a beleza do mundo! 🌎♻</div> 
 			<div align="right"> <img padding-bottom="10px" src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_blooming_re_2kc4%20(1).svg" width=250px>
 
 </div>
